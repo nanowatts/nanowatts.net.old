@@ -14,7 +14,7 @@ export default function Home() {
           
           Before 98point6, I worked on data and integrations projects for <a className="text-primary dark:text-darkPrimary" href="https://www.sharecare.com" target="_blank" rel="noopener noreferrer">Sharecare</a> and <a className="text-primary dark:text-darkPrimary" href="https://www.elationhealth.com" target="_blank" rel="noopener noreferrer">Elation Health</a>.
          
-         Healthcare in the United States is fundamentally broken and I'm gratified to spend the majority of my time chipping away at hard problems in this space.
+         Healthcare in the United States is fundamentally broken and I'm grateful to spend the majority of my time chipping away at hard problems in this space.
          
       <br></br><br></br>
          I'm also obsessed with mountains, cocktails, and the wild west.
