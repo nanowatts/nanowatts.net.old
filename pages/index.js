@@ -10,14 +10,12 @@ export default function Home() {
       <div>
       <p className="mt-8 md:mt-4 text-primary dark:text-darkPrimary">
           
-          I'm currently working with the good people of <a className="text-primary dark:text-darkPrimary" href="https://www.98point6.com" target="_blank" rel="noopener noreferrer">98point6</a> as a Senior Solutions Architect. 
+          I'm currently working with the good people of <a className="text-primary dark:text-darkPrimary" href="https://www.riotgames.com" target="_blank" rel="noopener noreferrer">Riot Games</a> as a Technical Producer. 
           
-          Before 98point6, I worked on data and integrations projects for <a className="text-primary dark:text-darkPrimary" href="https://www.sharecare.com" target="_blank" rel="noopener noreferrer">Sharecare</a> and <a className="text-primary dark:text-darkPrimary" href="https://www.elationhealth.com" target="_blank" rel="noopener noreferrer">Elation Health</a>.
-         
-         Healthcare in the United States is fundamentally broken and I'm grateful to spend the majority of my time chipping away at hard problems in this space.
+          Before Riot, I worked on engineering projects in the healthcare space for <a className="text-primary dark:text-darkPrimary" href="https://www.98point6.com" target="_blank" rel="noopener noreferrer">98point6</a>, <a className="text-primary dark:text-darkPrimary" href="https://www.sharecare.com" target="_blank" rel="noopener noreferrer">Sharecare</a> and <a className="text-primary dark:text-darkPrimary" href="https://www.elationhealth.com" target="_blank" rel="noopener noreferrer">Elation Health</a>.
          
       <br></br><br></br>
-         I'm also obsessed with mountains, cocktails, and the wild west.
+         I enjoy games, skiing, and photography. I'm also obsessed with mountains, cocktails, and the wild west.
          </p>
       </div>
 
