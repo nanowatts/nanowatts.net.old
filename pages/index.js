@@ -12,7 +12,7 @@ export default function Home() {
           
           I'm currently working with the good people of <a className="text-primary dark:text-darkPrimary" href="https://www.riotgames.com" target="_blank" rel="noopener noreferrer">Riot Games</a> as a Technical Producer. 
           
-          Before Riot, I worked on engineering projects in the healthcare space for <a className="text-primary dark:text-darkPrimary" href="https://www.98point6.com" target="_blank" rel="noopener noreferrer">98point6</a>, <a className="text-primary dark:text-darkPrimary" href="https://www.elationhealth.com" target="_blank" rel="noopener noreferrer">Elation Health</a> and <a className="text-primary dark:text-darkPrimary" href="https://www.sharecare.com" target="_blank" rel="noopener noreferrer">Sharecare</a>.
+          Before Riot, I worked on engineering projects in the healthcare space for <a className="text-primary dark:text-darkPrimary" href="https://www.98point6.com" target="_blank" rel="noopener noreferrer">98point6</a>, <a className="text-primary dark:text-darkPrimary" href="https://www.elationhealth.com" target="_blank" rel="noopener noreferrer">Elation Health</a>, and <a className="text-primary dark:text-darkPrimary" href="https://www.sharecare.com" target="_blank" rel="noopener noreferrer">Sharecare</a>.
          
       <br></br><br></br>
          I enjoy games, skiing, and photography. I'm also obsessed with mountains, cocktails, and the wild west.
